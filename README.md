@@ -7,3 +7,4 @@ Multitech Rails App themed "Blog", used stack:
  - Sidekiq
  - Scaffold
  - Mailer
+ - AASM
