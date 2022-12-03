@@ -8,5 +8,6 @@ Multitech Rails App themed "Blog", used stack:
  - Scaffold
  - Mailer
  - AASM
+ - RSpec for tests
 
 Originally **Docker** used, so i suggest to use Docker and escape local deployment problems.
